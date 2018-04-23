@@ -1,0 +1,10 @@
+StepperLab4		KEYWORD1
+attach			KEYWORD2
+setSpeedAccel		KEYWORD2
+relativeSteps		KEYWORD2
+absoluteSteps		KEYWORD2
+soft_stop		KEYWORD2
+hard_stop		KEYWORD2
+setRefPosition		KEYWORD2
+getActualPosition	KEYWORD2
+stepReady		KEYWORD2

@@ -1,0 +1,4 @@
+BinComLib		KEYWORD1
+init			KEYWORD2
+process			KEYWORD2
+send			KEYWORD2
